@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Online-shopping-website-react/static/css/main.ddee3fd3.chunk.css",
-    "main.js": "/Online-shopping-website-react/static/js/main.4005d365.chunk.js",
-    "main.js.map": "/Online-shopping-website-react/static/js/main.4005d365.chunk.js.map",
+    "main.css": "/Online-shopping-website-react/static/css/main.8e37fd62.chunk.css",
+    "main.js": "/Online-shopping-website-react/static/js/main.a5bf70ce.chunk.js",
+    "main.js.map": "/Online-shopping-website-react/static/js/main.a5bf70ce.chunk.js.map",
     "runtime-main.js": "/Online-shopping-website-react/static/js/runtime-main.15f4381b.js",
     "runtime-main.js.map": "/Online-shopping-website-react/static/js/runtime-main.15f4381b.js.map",
-    "static/js/2.003cbc46.chunk.js": "/Online-shopping-website-react/static/js/2.003cbc46.chunk.js",
-    "static/js/2.003cbc46.chunk.js.map": "/Online-shopping-website-react/static/js/2.003cbc46.chunk.js.map",
+    "static/js/2.bbbfaf56.chunk.js": "/Online-shopping-website-react/static/js/2.bbbfaf56.chunk.js",
+    "static/js/2.bbbfaf56.chunk.js.map": "/Online-shopping-website-react/static/js/2.bbbfaf56.chunk.js.map",
     "index.html": "/Online-shopping-website-react/index.html",
-    "precache-manifest.2b94ab171919a7387cc2dce668d97c00.js": "/Online-shopping-website-react/precache-manifest.2b94ab171919a7387cc2dce668d97c00.js",
+    "precache-manifest.17d22c042a29b64541a4580308aa3948.js": "/Online-shopping-website-react/precache-manifest.17d22c042a29b64541a4580308aa3948.js",
     "service-worker.js": "/Online-shopping-website-react/service-worker.js",
-    "static/css/main.ddee3fd3.chunk.css.map": "/Online-shopping-website-react/static/css/main.ddee3fd3.chunk.css.map",
-    "static/js/2.003cbc46.chunk.js.LICENSE.txt": "/Online-shopping-website-react/static/js/2.003cbc46.chunk.js.LICENSE.txt"
+    "static/css/main.8e37fd62.chunk.css.map": "/Online-shopping-website-react/static/css/main.8e37fd62.chunk.css.map",
+    "static/js/2.bbbfaf56.chunk.js.LICENSE.txt": "/Online-shopping-website-react/static/js/2.bbbfaf56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15f4381b.js",
-    "static/js/2.003cbc46.chunk.js",
-    "static/css/main.ddee3fd3.chunk.css",
-    "static/js/main.4005d365.chunk.js"
+    "static/js/2.bbbfaf56.chunk.js",
+    "static/css/main.8e37fd62.chunk.css",
+    "static/js/main.a5bf70ce.chunk.js"
   ]
 }
